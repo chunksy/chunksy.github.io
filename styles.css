@@ -1,7 +1,21 @@
 /* styles.css */
 h1 {
     font-family: 'Open Sans', sans-serif;
+    font-size: 300%;
   }
   p {
     font-family: 'Roboto', sans-serif;
+    font-size: large;
   }
+  a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+/*buttonbelow*/
+  .btn {
+    background: #3197ea38;
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 3px solid #030c495c;
+    border-radius: 6px;
+  }
+  
