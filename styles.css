@@ -27,7 +27,7 @@ h1 {
 }
 /* Tab introduction*/
 /* Style the tab */
-.tab-nav-container {
+.tab-container {
   display: flex;
   justify-content: space-around;
   width: 100%;
@@ -48,9 +48,9 @@ h1 {
 }
 
 /* Add specific colors for active tabs */
-.tab.active.purple {
-  background-color: rgba(18, 68, 85, 0.2);
-  color: rgb(3, 0, 14);
+.tab.active.color {
+  background-color: rgba(63, 67, 69, 0.2);
+  color: rgb(0, 0, 0);
 }
 /* Add styles for other colors (pink, yellow, teal) similarly */
 
