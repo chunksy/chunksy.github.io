@@ -4,4 +4,4 @@ function openTab(event, tabName) {
         tabcontent[i].style.display = "none";
     }
     document.getElementById(tabName).style.display = "block";
-}s
+}
